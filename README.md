@@ -56,7 +56,7 @@ Almacenamiento: 915 MB de espacio disponible
 
 ¿Tu PC es compatible con Project y has decidido sumarte a la aventura? ¡Perfecto! Sigue los pasos para disfrutar de Project en tu PC:
 
-### 1. Escoge el archivo "Project_YTMAV_2.0_v15.0.127_ (nombre de la versión que quieras descargar) _stable.zip de la página **Releases** para descargar el juego en tu PC._
+### 1. Escoge el archivo "Project_YTMAV_2.0_v15.0.127_{nombre de la versión}-stable.zip de la página **Releases** para descargar el juego en tu PC.
 ### 2. Descomprime el archivo, y como resultado obtendrás una carpeta con el juego llamada "Project YTMAV 2.0 - v15.0.127 - FULL - Stable". Ábrela.
 ### 3. Ejecuta el archivo llamado Project YTMAV 2.0.exe (si te salen advertencias del Microsoft SmartScreen, permite que el mismo ejecute el juego en el PC)
 ### 4. Si es la primera vez que ejecutas Project, verás una presentación inicial del juego, mientras que el juego busca automáticamente algunos archivos necesarios para ejecutar Project, espera pacientemente.
