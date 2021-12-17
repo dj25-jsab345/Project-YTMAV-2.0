@@ -117,5 +117,5 @@ Este proyecto está bajo la Licencia (Creative Commons (CC)) - mira el archivo [
 * A todos los integrantes del DJ25 Management Team,
 * GRACIAS INFINITAS por creer en mí, por no desistir y por hacer que este proyecto sea una realidad. No tengo palabras suficientes para expresar mi gratitud con ustedes. Si pudiera pedirle a Dios un deseo, definitivamente le pediría que les regalara el cielo a ustedes, por las personas tan increíbles que son ustedes. Estoy con un honor grandísimo de haber trabajado con ustedes. Gracias a todo nuestro trabajo, Project es una realidad. ¡Gracias infinitas!
 
-                                                                                                                                                            DJ25
+                                                                                                                                                                  DJ25
 Con ❤️ por [dj25-jsab345](https://github.com/dj25-jsab345) 😊
