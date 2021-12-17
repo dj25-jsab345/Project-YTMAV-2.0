@@ -102,9 +102,80 @@ Todo el equipo de Project YTMAV 2.0, gracias a ellos este juego puede coexistir.
 * **Isaías Marcial (Isa Marcial)** - *Descubrimiento y publicidad* - 
 * **Nate Gentile** - *Programador colaborador*
 * **NancySauria** - *Arte y diseño*
-* **Equipo de Berzerk Studio (Em,Lachhh y Mike)** - *Proveedores del código fuente base, sub-colaboradores y supervisores del juego**
+* **Equipo de Berzerk Studio (Em,Lachhh y Mike)** - *Proveedores del código fuente base, sub-colaboradores y supervisores del juego*
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/dj25-jsab345/Project-YTMAV-2.0/contributors) quíenes han participado en este proyecto. 
+
+## Artistas musicales de Project YTMAV 2.0 🎵
+* - Chris Ramos
+* - Juvon Taylor
+* - Danimal Cannon & Zef
+* - LemKuuja
+* - SlyLeaf
+* - TheFatRat
+* - Zef
+* - Danimal Cannon
+* - CrimzonWolf777
+* - Big Giant Circles
+* - Husky
+* - Dex Arson
+* - Kubbi
+* - Waterflame
+* - Lundh
+* - Jon Becker
+* - Stacey Hunt
+* - Radzlan
+* - Demonicity
+* - PIXL
+* - Never Modern Talk
+* - MDK
+* - Panda Eyes
+* - Nasko
+* - Stonebank
+* - EMEL
+* - Mafia Pineapple
+* - Teminite
+* - Chipzel
+* - Nitro Fun
+* - Tokyo Machine
+* - Kabuki
+* - DuoCore
+* - LeaF
+* - Meganeko
+* - Tim Legend
+* - Silva Hound
+* - OMNI
+* - Virtual Riot
+* - Lchavasse
+* - Hinkik
+* - Pegboard Nerds
+* - Hellberg
+* - Teqq
+* - Taylr Renee
+* - DJVI
+* - B.E.R
+* - DJ Nate
+* - ForeverBound
+* - Pegboard Nerds
+* - Aero Chord
+* - Bossfight
+* - Toby Fox
+* - Camellia
+* - Cospe
+* - CubixyBlue
+* - Boom Kitty
+* - Zircon
+* - F-777
+* - Andrew Block
+* - Ivan Neville
+* - The Noisy Freaks
+* - Baq5
+* - Excision
+* - Space Laces
+* - Creo
+* - Omnitica
+
+¡Denles muchísimo apoyo, esta es nada más una segunda muestra del increíble trabajo que realizan!
 
 ## Licencia 📄
 
